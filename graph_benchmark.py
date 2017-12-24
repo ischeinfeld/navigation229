@@ -15,7 +15,7 @@ from pprint import pprint
 ######################################
 # SPECIFY TEST
 ENVIRONMENT_ID = 12345
-ENVIRONMENT_COUNT = 4
+ENVIRONMENT_COUNT = 50
 NUM_DISPLAY_ENVS = 4 # must be perfect square < ENVIRONMENT_COUNT
 ######################################
 
